@@ -1,0 +1,289 @@
+crop_id,crop_group,crop,season,fiscal_year,area_acres,yield_kg,yield_basis,production_mt,production_unit,prod_ratio_check,recon_flag,is_aggregate
+1,Cereals,Barley,,2022-23,418.4,380.45,per_acre,159.18,M.Ton,1.0,0,0
+1,Cereals,Barley,,2023-24,395.08,494.43,per_acre,195.34,M.Ton,1.0,0,0
+2,Cereals,Sorghum/Jower,winter,2022-23,44.8,487.95,per_acre,21.86,M.Ton,1.0,0,0
+2,Cereals,Sorghum/Jower,winter,2023-24,45.7,488.4,per_acre,22.32,M.Ton,1.0,0,0
+3,Cereals,Sorghum/Jower,summer,2022-23,72.0,534.17,per_acre,38.46,M.Ton,1.0,0,0
+3,Cereals,Sorghum/Jower,summer,2023-24,73.32,534.64,per_acre,39.2,M.Ton,1.0,0,0
+4,Cereals,Maize,winter,2022-23,1031908.38,3879.98,per_acre,4003788.09,M.Ton,1.0,0,0
+4,Cereals,Maize,winter,2023-24,1060671.2,4003.2,per_acre,4246074.22,M.Ton,1.0,0,0
+5,Cereals,Maize,summer,2022-23,195390.99,2859.49,per_acre,558719.54,M.Ton,1.0,0,0
+5,Cereals,Maize,summer,2023-24,211405.82,2979.32,per_acre,629844.96,M.Ton,1.0,0,0
+6,Cereals,China & Kaun,,2022-23,1685.4,459.79,per_acre,774.93,M.Ton,1.0,0,0
+6,Cereals,China & Kaun,,2023-24,1685.99,447.02,per_acre,753.67,M.Ton,1.0,0,0
+7,Pulses,Gram,,2022-23,9972.05,467.76,per_acre,4664.5,M.Ton,1.0,0,0
+7,Pulses,Gram,,2023-24,9751.15,517.68,per_acre,5047.98,M.Ton,1.0,0,0
+8,Pulses,Pigeon pea (Arhar),,2022-23,1011.98,417.5,per_acre,422.5,M.Ton,1.0,0,0
+8,Pulses,Pigeon pea (Arhar),,2023-24,906.92,423.65,per_acre,384.22,M.Ton,1.0,0,0
+9,Pulses,Lentil (Masur),,2022-23,334429.6,588.55,per_acre,196829.24,M.Ton,1.0,0,0
+9,Pulses,Lentil (Masur),,2023-24,308608.85,598.88,per_acre,184818.82,M.Ton,1.0,0,0
+10,Pulses,Peas green (Mator),,2022-23,17237.51,447.13,per_acre,7707.47,M.Ton,1.0,0,0
+10,Pulses,Peas green (Mator),,2023-24,17026.73,469.51,per_acre,7994.24,M.Ton,1.0,0,0
+11,Pulses,Mung bean,,2022-23,112709.6,404.28,per_acre,45565.8,M.Ton,1.0,0,0
+11,Pulses,Mung bean,,2023-24,121276.83,368.09,per_acre,44640.93,M.Ton,1.0,0,0
+12,Pulses,Vigna mungo (Mashkalai),,2022-23,101790.36,401.88,per_acre,40907.4,M.Ton,1.0,0,0
+12,Pulses,Vigna mungo (Mashkalai),,2023-24,98294.35,399.65,per_acre,39283.82,M.Ton,1.0,0,0
+13,Pulses,Grass pea (Khesari),,2022-23,271794.0,474.68,per_acre,129015.32,M.Ton,1.0,0,0
+13,Pulses,Grass pea (Khesari),,2023-24,269630.48,482.33,per_acre,130049.83,M.Ton,1.0,0,0
+14,Pulses,Felon lentil,,2022-23,30031.45,459.42,per_acre,13797.07,M.Ton,1.0,0,0
+14,Pulses,Felon lentil,,2023-24,30931.97,538.47,per_acre,16655.94,M.Ton,1.0,0,0
+15,Pulses,Garikalai,,2022-23,1217.86,303.89,per_acre,310.1,M.Ton,0.838,1,0
+15,Pulses,Garikalai,,2023-24,1189.87,299.06,per_acre,355.84,M.Ton,1.0,0,0
+16,Oil seeds (edible),Sesame,winter,2022-23,6144.67,411.21,per_acre,2526.72,M.Ton,1.0,0,0
+16,Oil seeds (edible),Sesame,winter,2023-24,6055.9,416.25,per_acre,2520.76,M.Ton,1.0,0,0
+17,Oil seeds (edible),Sesame,summer,2022-23,72329.47,389.72,per_acre,28187.96,M.Ton,1.0,0,0
+17,Oil seeds (edible),Sesame,summer,2023-24,69890.45,393.13,per_acre,27476.07,M.Ton,1.0,0,0
+18,Oil seeds (edible),Mustard (Local & HYV),,2022-23,946632.07,578.29,per_acre,547425.32,M.Ton,1.0,0,0
+18,Oil seeds (edible),Mustard (Local & HYV),,2023-24,1144063.2,557.44,per_acre,637745.13,M.Ton,1.0,0,0
+19,Oil seeds (edible),Groundnut,winter,2022-23,87749.91,765.52,per_acre,67173.9,M.Ton,1.0,0,0
+19,Oil seeds (edible),Groundnut,winter,2023-24,86124.21,779.89,per_acre,67167.11,M.Ton,1.0,0,0
+20,Oil seeds (edible),Groundnut,summer,2022-23,10125.6,775.95,per_acre,7856.95,M.Ton,1.0,0,0
+20,Oil seeds (edible),Groundnut,summer,2023-24,10445.21,784.71,per_acre,8196.5,M.Ton,1.0,0,0
+21,Oil seeds (edible),Soyabean,,2022-23,145582.25,737.09,per_acre,107307.59,M.Ton,1.0,0,0
+21,Oil seeds (edible),Soyabean,,2023-24,141371.15,755.69,per_acre,106833.47,M.Ton,1.0,0,0
+22,Oil seeds (edible),Sunflower,,2022-23,6362.37,569.3,per_acre,3622.11,M.Ton,1.0,0,0
+22,Oil seeds (edible),Sunflower,,2023-24,6908.31,563.84,per_acre,3895.16,M.Ton,1.0,0,0
+23,Oil seeds (non-edible),Linseed (Tishi),,2022-23,12029.15,297.8,per_acre,3582.26,M.Ton,1.0,0,0
+23,Oil seeds (non-edible),Linseed (Tishi),,2023-24,11281.19,303.13,per_acre,3419.63,M.Ton,1.0,0,0
+24,Oil seeds (non-edible),Coconut,,2022-23,74755.47,51.36,per_fruit_bearing_tree,403657.65,M.Ton,105.134,0,0
+24,Oil seeds (non-edible),Coconut,,2023-24,65038.11,51.05,per_fruit_bearing_tree,400391.76,M.Ton,120.593,0,0
+25,Condiments & spices,Chilies,winter,2022-23,188888.78,2685.18,per_acre,507200.88,M.Ton,1.0,0,0
+25,Condiments & spices,Chilies,winter,2023-24,191521.12,2934.02,per_acre,561927.16,M.Ton,1.0,0,0
+26,Condiments & spices,Chilies,summer,2022-23,51499.92,3016.43,per_acre,155346.03,M.Ton,1.0,0,0
+26,Condiments & spices,Chilies,summer,2023-24,53161.09,3506.46,per_acre,186404.33,M.Ton,1.0,0,0
+27,Condiments & spices,Onion,,2022-23,502909.23,5064.52,per_acre,2546994.26,M.Ton,1.0,0,0
+27,Condiments & spices,Onion,,2023-24,513526.97,5681.01,per_acre,2917354.26,M.Ton,1.0,0,0
+28,Condiments & spices,Garlic,,2022-23,177114.66,3099.16,per_acre,548907.16,M.Ton,1.0,0,0
+28,Condiments & spices,Garlic,,2023-24,174515.45,3023.6,per_acre,527665.18,M.Ton,1.0,0,0
+29,Condiments & spices,Turmeric,,2022-23,66054.78,3633.74,per_acre,240026.13,M.Ton,1.0,0,0
+29,Condiments & spices,Turmeric,,2023-24,65856.96,3706.88,per_acre,244124.09,M.Ton,1.0,0,0
+30,Condiments & spices,Ginger,,2022-23,25687.7,3259.39,per_acre,83726.18,M.Ton,1.0,0,0
+30,Condiments & spices,Ginger,,2023-24,25668.22,3240.38,per_acre,83174.87,M.Ton,1.0,0,0
+31,Condiments & spices,Coriander,,2022-23,50196.17,444.97,per_acre,22336.02,M.Ton,1.0,0,0
+31,Condiments & spices,Coriander,,2023-24,49836.3,471.66,per_acre,23505.85,M.Ton,1.0,0,0
+32,Condiments & spices,Coriander leaf,,2022-23,9578.75,909.54,per_acre,8712.26,M.Ton,1.0,0,0
+32,Condiments & spices,Coriander leaf,,2023-24,9972.96,921.95,per_acre,9194.55,M.Ton,1.0,0,0
+33,Condiments & spices,Black cumin,,2022-23,2825.48,483.16,per_acre,1365.16,M.Ton,1.0,0,0
+33,Condiments & spices,Black cumin,,2023-24,2896.15,487.04,per_acre,1410.53,M.Ton,1.0,0,0
+34,Condiments & spices,Capsicum,,2022-23,94.35,3047.27,per_acre,287.51,M.Ton,1.0,0,0
+34,Condiments & spices,Capsicum,,2023-24,111.03,2922.35,per_acre,324.47,M.Ton,1.0,0,0
+35,Condiments & spices,Fenugreek (Methi),,2022-23,328.38,551.5,per_acre,181.1,M.Ton,1.0,0,0
+35,Condiments & spices,Fenugreek (Methi),,2023-24,239.12,564.9,per_acre,135.08,M.Ton,1.0,0,0
+36,Condiments & spices,Mint,,2022-23,46.33,2120.01,per_acre,98.22,M.Ton,1.0,0,0
+36,Condiments & spices,Mint,,2023-24,34.25,2521.75,per_acre,46.37,M.Ton,0.537,1,0
+37,Condiments & spices,Jain,,2022-23,23.15,313.17,per_acre,7.25,M.Ton,1.0,0,0
+37,Condiments & spices,Jain,,2023-24,9.94,252.52,per_acre,2.51,M.Ton,1.0,0,0
+38,Condiments & spices,Cassia-leaf,,2022-23,1145.02,10.28,per_fruit_bearing_tree,1501.22,M.Ton,127.538,0,0
+38,Condiments & spices,Cassia-leaf,,2023-24,1328.06,11.89,per_fruit_bearing_tree,1646.91,M.Ton,104.297,0,0
+39,Sugar crops,Sugarcane,,2022-23,172289.89,17311.21,per_acre,2982546.83,M.Ton,1.0,0,0
+39,Sugar crops,Sugarcane,,2023-24,167345.34,17530.78,per_acre,2933694.69,M.Ton,1.0,0,0
+40,Sugar crops,Date palm (fruits),,2022-23,15680.05,12.67,per_fruit_bearing_tree,39749.84,M.Ton,200.084,0,0
+40,Sugar crops,Date palm (fruits),,2023-24,21513.79,12.55,per_fruit_bearing_tree,38839.47,M.Ton,143.851,0,0
+41,Sugar crops,Date palm (juice),,2022-23,17673.5,59.61,per_fruit_bearing_tree,167792.75,M.Ton,159.269,0,0
+41,Sugar crops,Date palm (juice),,2023-24,17555.69,57.44,per_fruit_bearing_tree,158083.52,M.Ton,156.767,0,0
+42,Sugar crops,Green palm (Taler shash),,2022-23,11176.57,65.74,per_fruit_bearing_tree,75305.86,M.Ton,102.492,0,0
+42,Sugar crops,Green palm (Taler shash),,2023-24,20605.91,64.62,per_fruit_bearing_tree,74593.94,M.Ton,56.02,0,0
+43,Sugar crops,Palm (juice),,2022-23,9456.76,84.1,per_fruit_bearing_tree,58610.1,M.Ton,73.694,0,0
+43,Sugar crops,Palm (juice),,2023-24,9337.24,87.27,per_fruit_bearing_tree,61197.67,M.Ton,75.102,0,0
+44,Sugar crops,Palm (ripe tal),,2022-23,13814.08,126.52,per_fruit_bearing_tree,180087.6,M.Ton,103.039,0,0
+44,Sugar crops,Palm (ripe tal),,2023-24,13397.26,100.45,per_fruit_bearing_tree,142302.38,M.Ton,105.742,0,0
+45,Fiber crops,Cotton (Cumilla),summer,2022-23,17593.34,113.04,per_acre,1988.77,bale,1.0,0,0
+45,Fiber crops,Cotton (Cumilla),summer,2023-24,17630.96,117.38,per_acre,2069.49,bale,1.0,0,0
+46,Fiber crops,Cotton (American),winter,2022-23,11335.3,5.68,per_acre,64365.88,bale,999.711,0,0
+46,Fiber crops,Cotton (American),winter,2023-24,10813.83,6.04,per_acre,65275.71,bale,999.39,0,0
+47,Fiber crops,Sunhemp,winter,2022-23,56.2,967.79,per_acre,54.39,M.Ton,1.0,0,0
+47,Fiber crops,Sunhemp,winter,2023-24,55.5,934.41,per_acre,51.86,M.Ton,1.0,0,0
+48,Fiber crops,Shimul cotton,,2022-23,7894.84,0.07,per_acre,30517.82,bale,55222.0,0,0
+48,Fiber crops,Shimul cotton,,2023-24,7883.46,0.07,per_acre,30754.74,bale,55731.041,0,0
+49,Tobacco group,Tobacco - Jati,,2022-23,18240.41,644.04,per_acre,11747.54,M.Ton,1.0,0,0
+49,Tobacco group,Tobacco - Jati,,2023-24,17409.1,637.68,per_acre,11101.45,M.Ton,1.0,0,0
+50,Tobacco group,Tobacco - Matihari,,2022-23,6364.91,721.57,per_acre,4592.72,M.Ton,1.0,0,0
+50,Tobacco group,Tobacco - Matihari,,2023-24,9882.43,731.14,per_acre,7225.47,M.Ton,1.0,0,0
+51,Tobacco group,Tobacco - Virginia,,2022-23,68501.75,1025.42,per_acre,70242.91,M.Ton,1.0,0,0
+51,Tobacco group,Tobacco - Virginia,,2023-24,73809.02,1076.93,per_acre,79487.21,M.Ton,1.0,0,0
+52,Tobacco group,Betel leaves,,2022-23,54485.7,3883.04,per_acre,211570.27,M.Ton,1.0,0,0
+52,Tobacco group,Betel leaves,,2023-24,53570.5,3806.03,per_acre,203890.97,M.Ton,1.0,0,0
+53,Tobacco group,Betel nut,,2022-23,96993.23,3.77,per_fruit_bearing_tree,341586.02,M.Ton,934.152,0,0
+53,Tobacco group,Betel nut,,2023-24,97993.23,3.95,per_fruit_bearing_tree,356029.13,M.Ton,919.798,0,0
+54,Tobacco group,Tea,,2022-23,141355.0,659.39,per_fruit_bearing_tree,93208.0,M.Ton,1.0,0,0
+54,Tobacco group,Tea,,2023-24,145182.0,693.34,per_fruit_bearing_tree,100660.0,M.Ton,1.0,0,0
+55,Vegetables (winter),Brinjal (Robi),,2022-23,86425.14,5157.93,per_acre,445775.18,M.Ton,1.0,0,0
+55,Vegetables (winter),Brinjal (Robi),,2023-24,86098.05,5633.73,per_acre,485052.86,M.Ton,1.0,0,0
+56,Vegetables (winter),Pumpkin (Robi),,2022-23,44872.04,5059.85,per_acre,227045.65,M.Ton,1.0,0,0
+56,Vegetables (winter),Pumpkin (Robi),,2023-24,44963.56,5769.95,per_acre,259400.65,M.Ton,1.0,0,0
+57,Vegetables (winter),Cauliflower,,2022-23,56446.94,6089.94,per_acre,343758.71,M.Ton,1.0,0,0
+57,Vegetables (winter),Cauliflower,,2023-24,58129.33,7391.62,per_acre,429670.1,M.Ton,1.0,0,0
+58,Vegetables (winter),Cabbage,,2022-23,53463.62,7899.25,per_acre,422322.6,M.Ton,1.0,0,0
+58,Vegetables (winter),Cabbage,,2023-24,53391.69,8428.73,per_acre,450023.93,M.Ton,1.0,0,0
+59,Vegetables (winter),Gourd,,2022-23,49739.72,5714.97,per_acre,284261.05,M.Ton,1.0,0,0
+59,Vegetables (winter),Gourd,,2023-24,50112.96,6257.53,per_acre,313583.36,M.Ton,1.0,0,0
+60,Vegetables (winter),Tomato,,2022-23,76943.14,6098.07,per_acre,469204.49,M.Ton,1.0,0,0
+60,Vegetables (winter),Tomato,,2023-24,76876.32,6393.23,per_acre,491487.79,M.Ton,1.0,0,0
+61,Vegetables (winter),Radish,,2022-23,67380.38,5056.18,per_acre,340687.06,M.Ton,1.0,0,0
+61,Vegetables (winter),Radish,,2023-24,66441.99,5668.06,per_acre,376597.15,M.Ton,1.0,0,0
+62,Vegetables (winter),Beans,,2022-23,63675.78,3582.44,per_acre,228114.83,M.Ton,1.0,0,0
+62,Vegetables (winter),Beans,,2023-24,63268.45,3577.31,per_acre,226330.84,M.Ton,1.0,0,0
+63,Vegetables (winter),Carrot,,2022-23,6488.56,5435.81,per_acre,35270.61,M.Ton,1.0,0,0
+63,Vegetables (winter),Carrot,,2023-24,6857.87,6327.9,per_acre,43395.93,M.Ton,1.0,0,0
+64,Vegetables (winter),Spinach (Palong Sak),,2022-23,24547.53,2581.43,per_acre,63367.77,M.Ton,1.0,0,0
+64,Vegetables (winter),Spinach (Palong Sak),,2023-24,24364.08,2743.34,per_acre,66838.99,M.Ton,1.0,0,0
+65,Vegetables (winter),Red amaranth (Lal Sak),,2022-23,32451.23,2155.04,per_acre,69933.86,M.Ton,1.0,0,0
+65,Vegetables (winter),Red amaranth (Lal Sak),,2023-24,32704.09,2223.35,per_acre,72712.66,M.Ton,1.0,0,0
+66,Vegetables (winter),Gourd leaves (Lau Sak),,2022-23,17348.81,1974.6,per_acre,34256.91,M.Ton,1.0,0,0
+66,Vegetables (winter),Gourd leaves (Lau Sak),,2023-24,17596.52,1944.22,per_acre,34211.58,M.Ton,1.0,0,0
+67,Vegetables (winter),Turnips (Shalgham),,2022-23,3738.6,2921.43,per_acre,10922.04,M.Ton,1.0,0,0
+67,Vegetables (winter),Turnips (Shalgham),,2023-24,3525.69,2959.72,per_acre,10435.06,M.Ton,1.0,0,0
+68,Vegetables (winter),Utshee,,2022-23,16486.96,2226.58,per_acre,36709.54,M.Ton,1.0,0,0
+68,Vegetables (winter),Utshee,,2023-24,16311.25,2289.66,per_acre,37347.23,M.Ton,1.0,0,0
+69,Vegetables (winter),Beetroot,,2022-23,333.14,3184.13,per_acre,1060.76,M.Ton,1.0,0,0
+69,Vegetables (winter),Beetroot,,2023-24,365.1,3278.76,per_acre,1197.08,M.Ton,1.0,0,0
+70,Vegetables (winter),Green banana,,2022-23,29246.02,6348.01,per_acre,185654.05,M.Ton,1.0,0,0
+70,Vegetables (winter),Green banana,,2023-24,28969.1,6349.25,per_acre,183931.93,M.Ton,1.0,0,0
+71,Vegetables (winter),Arum (Mukhi Kachu),,2022-23,25090.64,5242.89,per_acre,131547.49,M.Ton,1.0,0,0
+71,Vegetables (winter),Arum (Mukhi Kachu),,2023-24,24971.31,5321.3,per_acre,132879.85,M.Ton,1.0,0,0
+72,Vegetables (winter),Arum (Pani Kachu),,2022-23,14273.92,5019.35,per_acre,71645.84,M.Ton,1.0,0,0
+72,Vegetables (winter),Arum (Pani Kachu),,2023-24,13998.51,5025.02,per_acre,70342.75,M.Ton,1.0,0,0
+73,Vegetables (winter),Arum (Mura Kachu),,2022-23,9680.3,3817.93,per_acre,36958.68,M.Ton,1.0,0,0
+73,Vegetables (winter),Arum (Mura Kachu),,2023-24,9502.98,3891.1,per_acre,36977.02,M.Ton,1.0,0,0
+74,Vegetables (winter),Arum (OL Kachu),,2022-23,2273.08,8978.22,per_acre,20408.21,M.Ton,1.0,0,0
+74,Vegetables (winter),Arum (OL Kachu),,2023-24,2315.4,9532.82,per_acre,22072.29,M.Ton,1.0,0,0
+75,Vegetables (winter),Arum (Maan Kachu),,2022-23,5033.55,3702.89,per_acre,18638.66,M.Ton,1.0,0,0
+75,Vegetables (winter),Arum (Maan Kachu),,2023-24,5091.14,3850.07,per_acre,19601.26,M.Ton,1.0,0,0
+76,Vegetables (winter),Long bean (Batboti),,2022-23,17937.32,2335.66,per_acre,41895.45,M.Ton,1.0,0,0
+76,Vegetables (winter),Long bean (Batboti),,2023-24,18047.07,2363.14,per_acre,42647.76,M.Ton,1.0,0,0
+77,Vegetables (winter),Zucchini (Dhundol),,2022-23,11499.01,2645.69,per_acre,30422.83,M.Ton,1.0,0,0
+77,Vegetables (winter),Zucchini (Dhundol),,2023-24,11739.95,2749.53,per_acre,32279.29,M.Ton,1.0,0,0
+78,Vegetables (winter),Arum (Lati),,2022-23,18520.78,2641.16,per_acre,48916.38,M.Ton,1.0,0,0
+78,Vegetables (winter),Arum (Lati),,2023-24,18678.74,2729.04,per_acre,50975.07,M.Ton,1.0,0,0
+79,Vegetables (winter),Data leaves,,2022-23,14669.13,2366.09,per_acre,34708.41,M.Ton,1.0,0,0
+79,Vegetables (winter),Data leaves,,2023-24,14834.92,2420.94,per_acre,35914.48,M.Ton,1.0,0,0
+80,Vegetables (winter),Arum leaves,,2022-23,3813.55,1602.02,per_acre,6109.4,M.Ton,1.0,0,0
+80,Vegetables (winter),Arum leaves,,2023-24,4020.01,1626.12,per_acre,6537.02,M.Ton,1.0,0,0
+81,Vegetables (winter),Water spinach (Kalmishak),,2022-23,5939.95,2106.88,per_acre,12514.76,M.Ton,1.0,0,0
+81,Vegetables (winter),Water spinach (Kalmishak),,2023-24,6258.31,2136.96,per_acre,13373.78,M.Ton,1.0,0,0
+82,Vegetables (winter),Jute leaves,,2022-23,7593.57,1968.4,per_acre,14947.15,M.Ton,1.0,0,0
+82,Vegetables (winter),Jute leaves,,2023-24,7643.89,2017.53,per_acre,15421.76,M.Ton,1.0,0,0
+83,Vegetables (summer),Spiny gourd (Kakrol),,2022-23,13709.75,3221.78,per_acre,44169.77,M.Ton,1.0,0,0
+83,Vegetables (summer),Spiny gourd (Kakrol),,2023-24,13851.96,3207.62,per_acre,44431.81,M.Ton,1.0,0,0
+84,Vegetables (summer),Pumpkin (Summer),,2022-23,30431.04,5136.96,per_acre,156322.91,M.Ton,1.0,0,0
+84,Vegetables (summer),Pumpkin (Summer),,2023-24,30063.71,5243.45,per_acre,157637.48,M.Ton,1.0,0,0
+85,Vegetables (summer),Brinjal (Summer),,2022-23,49185.93,4786.36,per_acre,235421.4,M.Ton,1.0,0,0
+85,Vegetables (summer),Brinjal (Summer),,2023-24,49594.66,4855.72,per_acre,240817.83,M.Ton,1.0,0,0
+86,Vegetables (summer),Pointed gourd (Patol),,2022-23,25768.93,4875.92,per_acre,125647.25,M.Ton,1.0,0,0
+86,Vegetables (summer),Pointed gourd (Patol),,2023-24,26029.24,5044.94,per_acre,131316.0,M.Ton,1.0,0,0
+87,Vegetables (summer),Lady's finger,,2022-23,31021.88,3095.18,per_acre,96018.37,M.Ton,1.0,0,0
+87,Vegetables (summer),Lady's finger,,2023-24,31268.87,3168.64,per_acre,99079.93,M.Ton,1.0,0,0
+88,Vegetables (summer),Ribbed gourd (Jhinga),,2022-23,26249.84,2880.6,per_acre,75615.25,M.Ton,1.0,0,0
+88,Vegetables (summer),Ribbed gourd (Jhinga),,2023-24,26589.72,3046.1,per_acre,80995.03,M.Ton,1.0,0,0
+89,Vegetables (summer),Bitter gourd (Karala),,2022-23,29044.51,2860.89,per_acre,83093.27,M.Ton,1.0,0,0
+89,Vegetables (summer),Bitter gourd (Karala),,2023-24,29133.14,2929.19,per_acre,85336.57,M.Ton,1.0,0,0
+90,Vegetables (summer),Wax gourd (Chalkumra),,2022-23,26191.44,3887.34,per_acre,101815.14,M.Ton,1.0,0,0
+90,Vegetables (summer),Wax gourd (Chalkumra),,2023-24,26553.36,3932.12,per_acre,104410.91,M.Ton,1.0,0,0
+91,Vegetables (summer),Khirai,,2022-23,17612.91,4080.69,per_acre,71872.8,M.Ton,1.0,0,0
+91,Vegetables (summer),Khirai,,2023-24,17794.73,4419.09,per_acre,78636.52,M.Ton,1.0,0,0
+92,Vegetables (summer),Cucumber,,2022-23,25984.47,4184.79,per_acre,108739.65,M.Ton,1.0,0,0
+92,Vegetables (summer),Cucumber,,2023-24,26126.71,4235.14,per_acre,110650.34,M.Ton,1.0,0,0
+93,Vegetables (summer),Malabar spinach (Puisak),,2022-23,28364.5,3805.99,per_acre,107955.06,M.Ton,1.0,0,0
+93,Vegetables (summer),Malabar spinach (Puisak),,2023-24,28620.6,4089.63,per_acre,117047.58,M.Ton,1.0,0,0
+94,Vegetables (summer),Snake gourd (Chichinga),,2022-23,19796.61,2622.19,per_acre,51910.44,M.Ton,1.0,0,0
+94,Vegetables (summer),Snake gourd (Chichinga),,2023-24,19959.25,2690.95,per_acre,53709.31,M.Ton,1.0,0,0
+95,Vegetables (summer),Danta,,2022-23,27949.15,3259.1,per_acre,91089.08,M.Ton,1.0,0,0
+95,Vegetables (summer),Danta,,2023-24,27916.46,3290.48,per_acre,91858.64,M.Ton,1.0,0,0
+96,Vegetables (summer),Moringa (Shajna),,2022-23,7802.33,27.11,per_fruit_bearing_tree,31147.44,M.Ton,147.254,0,0
+96,Vegetables (summer),Moringa (Shajna),,2023-24,7521.63,28.5,per_fruit_bearing_tree,33380.51,M.Ton,155.717,0,0
+97,Vegetables (summer),Green papaya,,2022-23,21833.2,31.15,per_fruit_bearing_tree,316155.88,M.Ton,464.864,0,0
+97,Vegetables (summer),Green papaya,,2023-24,23466.01,31.44,per_fruit_bearing_tree,318568.06,M.Ton,431.798,0,0
+98,Fruits (temporary),Banana (ripe),,2022-23,122603.38,6854.32,per_acre,840362.67,M.Ton,1.0,0,0
+98,Fruits (temporary),Banana (ripe),,2023-24,122858.57,6621.92,per_acre,813559.8,M.Ton,1.0,0,0
+99,Fruits (temporary),Pineapple,,2022-23,32463.36,6060.24,per_acre,196735.74,M.Ton,1.0,0,0
+99,Fruits (temporary),Pineapple,,2023-24,32359.46,6453.36,per_acre,208827.25,M.Ton,1.0,0,0
+100,Fruits (temporary),Melon,,2022-23,10422.49,4875.3,per_acre,50812.73,M.Ton,1.0,0,0
+100,Fruits (temporary),Melon,,2023-24,10325.19,4895.25,per_acre,50544.4,M.Ton,1.0,0,0
+101,Fruits (temporary),Water melon,,2022-23,58757.44,9459.88,per_acre,555838.14,M.Ton,1.0,0,0
+101,Fruits (temporary),Water melon,,2023-24,64718.04,8987.87,per_acre,581677.4,M.Ton,1.0,0,0
+102,Fruits (temporary),Strawberry,,2022-23,84.74,2486.19,per_acre,210.68,M.Ton,1.0,0,0
+102,Fruits (temporary),Strawberry,,2023-24,112.39,3191.48,per_acre,358.69,M.Ton,1.0,0,0
+103,Fruits (temporary),Water fruit,,2022-23,475.34,4848.91,per_acre,2304.88,M.Ton,1.0,0,0
+103,Fruits (temporary),Water fruit,,2023-24,453.74,4161.59,per_acre,1888.28,M.Ton,1.0,0,0
+104,Fruits (permanent),Mango,,2022-23,306274.32,61.79,per_fruit_bearing_tree,1482937.04,M.Ton,78.36,0,0
+104,Fruits (permanent),Mango,,2023-24,391464.86,73.95,per_fruit_bearing_tree,1842653.78,M.Ton,63.652,0,0
+105,Fruits (permanent),Jackfruit,,2022-23,75842.04,118.88,per_fruit_bearing_tree,1062302.28,M.Ton,117.823,0,0
+105,Fruits (permanent),Jackfruit,,2023-24,112863.9,113.53,per_fruit_bearing_tree,1025364.69,M.Ton,80.023,0,0
+106,Fruits (permanent),Orange,,2022-23,2439.45,23.4,per_fruit_bearing_tree,3616.43,M.Ton,63.354,0,0
+106,Fruits (permanent),Orange,,2023-24,2435.62,22.99,per_fruit_bearing_tree,3953.84,M.Ton,70.611,0,0
+107,Fruits (permanent),Sugar apple (Ata),,2022-23,1550.62,21.63,per_fruit_bearing_tree,5034.93,M.Ton,150.118,0,0
+107,Fruits (permanent),Sugar apple (Ata),,2023-24,1746.61,24.55,per_fruit_bearing_tree,5837.95,M.Ton,136.149,0,0
+108,Fruits (permanent),Jujube (Kul),,2022-23,17357.8,37.86,per_fruit_bearing_tree,96844.29,M.Ton,147.366,0,0
+108,Fruits (permanent),Jujube (Kul),,2023-24,21120.49,38.37,per_fruit_bearing_tree,100818.76,M.Ton,124.407,0,0
+109,Fruits (permanent),Water apple (Jamrul),,2022-23,5952.58,36.85,per_fruit_bearing_tree,13110.41,M.Ton,59.769,0,0
+109,Fruits (permanent),Water apple (Jamrul),,2023-24,3399.18,35.07,per_fruit_bearing_tree,12646.65,M.Ton,106.088,0,0
+110,Fruits (permanent),Carambola (Kamranga),,2022-23,3832.83,35.42,per_fruit_bearing_tree,14591.88,M.Ton,107.484,0,0
+110,Fruits (permanent),Carambola (Kamranga),,2023-24,3010.16,37.08,per_fruit_bearing_tree,14897.32,M.Ton,133.469,0,0
+111,Fruits (permanent),Olive,,2022-23,4794.43,40.47,per_fruit_bearing_tree,18825.97,M.Ton,97.026,0,0
+111,Fruits (permanent),Olive,,2023-24,4799.11,40.5,per_fruit_bearing_tree,19153.54,M.Ton,98.545,0,0
+112,Fruits (permanent),Hog-plum (Amra),,2022-23,11261.25,48.51,per_fruit_bearing_tree,43880.78,M.Ton,80.326,0,0
+112,Fruits (permanent),Hog-plum (Amra),,2023-24,10956.72,46.41,per_fruit_bearing_tree,45408.37,M.Ton,89.298,0,0
+113,Fruits (permanent),Tamarind,,2022-23,5872.06,35.95,per_fruit_bearing_tree,10844.28,M.Ton,51.37,0,0
+113,Fruits (permanent),Tamarind,,2023-24,5598.16,36.76,per_fruit_bearing_tree,10368.2,M.Ton,50.383,0,0
+114,Fruits (permanent),Lichi,,2022-23,21759.23,60.76,per_fruit_bearing_tree,104708.34,M.Ton,79.199,0,0
+114,Fruits (permanent),Lichi,,2023-24,22442.29,56.5,per_fruit_bearing_tree,98622.12,M.Ton,77.778,0,0
+115,Fruits (permanent),Guava,,2022-23,45386.94,25.91,per_fruit_bearing_tree,256105.56,M.Ton,217.781,0,0
+115,Fruits (permanent),Guava,,2023-24,45569.77,26.42,per_fruit_bearing_tree,257984.64,M.Ton,214.281,0,0
+116,Fruits (permanent),Lime & Lemon,,2022-23,33087.57,19.03,per_fruit_bearing_tree,99930.87,M.Ton,158.707,0,0
+116,Fruits (permanent),Lime & Lemon,,2023-24,20567.26,19.25,per_fruit_bearing_tree,106568.53,M.Ton,269.167,0,0
+117,Fruits (permanent),Pomelo,,2022-23,12800.07,35.7,per_fruit_bearing_tree,71785.28,M.Ton,157.092,0,0
+117,Fruits (permanent),Pomelo,,2023-24,12789.09,36.06,per_fruit_bearing_tree,71302.76,M.Ton,154.611,0,0
+118,Fruits (permanent),Ripe papaya,,2022-23,17981.81,25.27,per_fruit_bearing_tree,145316.82,M.Ton,319.799,0,0
+118,Fruits (permanent),Ripe papaya,,2023-24,17679.99,24.88,per_fruit_bearing_tree,146157.48,M.Ton,332.268,0,0
+119,Fruits (permanent),Green coconut,,2022-23,55360.28,71.18,per_fruit_bearing_tree,457088.21,M.Ton,115.996,0,0
+119,Fruits (permanent),Green coconut,,2023-24,56665.53,69.88,per_fruit_bearing_tree,469159.32,M.Ton,118.481,0,0
+120,Fruits (permanent),Wood apple (Bell),,2022-23,8675.62,51.15,per_fruit_bearing_tree,30441.23,M.Ton,68.599,0,0
+120,Fruits (permanent),Wood apple (Bell),,2023-24,7354.33,51.37,per_fruit_bearing_tree,33037.84,M.Ton,87.45,0,0
+121,Fruits (permanent),Black berry,,2022-23,12626.15,43.45,per_fruit_bearing_tree,53343.93,M.Ton,97.235,0,0
+121,Fruits (permanent),Black berry,,2023-24,12824.85,46.42,per_fruit_bearing_tree,53193.85,M.Ton,89.352,0,0
+122,Fruits (permanent),Sapodilla (Safeda),,2022-23,1661.43,33.32,per_fruit_bearing_tree,6808.56,M.Ton,122.99,0,0
+122,Fruits (permanent),Sapodilla (Safeda),,2023-24,1683.1,32.45,per_fruit_bearing_tree,6679.89,M.Ton,122.305,0,0
+123,Fruits (permanent),Custard apple (Sharifa),,2022-23,878.2,19.3,per_fruit_bearing_tree,1768.63,M.Ton,104.349,0,0
+123,Fruits (permanent),Custard apple (Sharifa),,2023-24,879.27,19.74,per_fruit_bearing_tree,1836.7,M.Ton,105.82,0,0
+124,Fruits (permanent),Pomegranate (Dalim),,2022-23,815.94,10.36,per_fruit_bearing_tree,1548.79,M.Ton,183.221,0,0
+124,Fruits (permanent),Pomegranate (Dalim),,2023-24,795.89,10.27,per_fruit_bearing_tree,1598.14,M.Ton,195.52,0,0
+125,Fruits (permanent),Dragon fruit,,2022-23,1135.4,4.61,per_fruit_bearing_tree,5959.29,M.Ton,1138.531,0,0
+125,Fruits (permanent),Dragon fruit,,2023-24,1914.31,5.11,per_fruit_bearing_tree,9754.91,M.Ton,997.218,0,0
+126,Fruits (permanent),Elephant apple (Chalta),,2022-23,3186.75,58.75,per_fruit_bearing_tree,10210.44,M.Ton,54.537,0,0
+126,Fruits (permanent),Elephant apple (Chalta),,2023-24,2523.39,56.94,per_fruit_bearing_tree,10045.75,M.Ton,69.917,0,0
+127,Fruits (permanent),Monkey jackfruit (Dewya),,2022-23,69.72,22.81,per_fruit_bearing_tree,1464.68,M.Ton,921.001,0,0
+127,Fruits (permanent),Monkey jackfruit (Dewya),,2023-24,804.18,22.92,per_fruit_bearing_tree,1527.42,M.Ton,82.869,0,0
+128,Fruits (permanent),Elephant apple (Kathbell),,2022-23,3488.2,44.37,per_fruit_bearing_tree,4578.18,M.Ton,29.58,0,0
+128,Fruits (permanent),Elephant apple (Kathbell),,2023-24,1217.07,45.24,per_fruit_bearing_tree,4607.85,M.Ton,83.687,0,0
+129,Fruits (permanent),Burmese grape (Lotkon),,2022-23,470.25,33.17,per_fruit_bearing_tree,2746.09,M.Ton,176.052,0,0
+129,Fruits (permanent),Burmese grape (Lotkon),,2023-24,479.6,33.19,per_fruit_bearing_tree,2790.98,M.Ton,175.336,0,0
+130,Fruits (permanent),Sweet orange (Malta),,2022-23,4184.23,17.78,per_fruit_bearing_tree,8886.0,M.Ton,119.443,0,0
+130,Fruits (permanent),Sweet orange (Malta),,2023-24,4707.64,24.14,per_fruit_bearing_tree,11064.0,M.Ton,97.358,0,0
+131,Fruits (permanent),Myrobalan (Amloki),,2022-23,1456.41,24.0,per_fruit_bearing_tree,2434.9,M.Ton,69.66,0,0
+131,Fruits (permanent),Myrobalan (Amloki),,2023-24,1453.37,25.74,per_fruit_bearing_tree,2700.79,M.Ton,72.195,0,0
+132,Fruits (permanent),Bengal currant (Kharamcha),,2022-23,64.38,17.22,per_fruit_bearing_tree,159.8,M.Ton,144.143,0,0
+132,Fruits (permanent),Bengal currant (Kharamcha),,2023-24,66.52,15.92,per_fruit_bearing_tree,56.48,M.Ton,53.333,0,0
+133,Flowers (temporary),Marigold (Ganda),,2022-23,1124.92,2561.44,per_acre,2881.41,M.Ton,1.0,0,0
+133,Flowers (temporary),Marigold (Ganda),,2023-24,1144.87,3785.31,per_acre,4333.69,M.Ton,1.0,0,0
+134,Flowers (temporary),Tube rose,,2022-23,663.0,5201.92,per_acre,3448.87,M.Ton,1.0,0,0
+134,Flowers (temporary),Tube rose,,2023-24,653.37,7237.74,per_acre,4728.92,M.Ton,1.0,0,0
+135,Flowers (temporary),Gladiolas,,2022-23,473.49,6313.92,per_acre,2989.58,M.Ton,1.0,0,0
+135,Flowers (temporary),Gladiolas,,2023-24,475.76,6438.67,per_acre,3063.26,M.Ton,1.0,0,0
+136,Flowers (temporary),Chrysanthemum (Chandra Mollika),,2022-23,35.31,3967.43,per_acre,140.09,M.Ton,1.0,0,0
+136,Flowers (temporary),Chrysanthemum (Chandra Mollika),,2023-24,35.26,4013.44,per_acre,141.51,M.Ton,1.0,0,0
+137,Flowers (temporary),Garden cosmos (Kosmos),,2022-23,14.97,566.47,per_acre,8.48,M.Ton,1.0,0,0
+137,Flowers (temporary),Garden cosmos (Kosmos),,2023-24,11.14,669.66,per_acre,7.46,M.Ton,1.0,0,0
+138,Flowers (temporary),Dahlia,,2022-23,35.92,2204.06,per_acre,79.17,M.Ton,1.0,0,0
+138,Flowers (temporary),Dahlia,,2023-24,31.73,2417.27,per_acre,76.7,M.Ton,1.0,0,0
+139,Flowers (temporary),Rose,,2022-23,667.37,7.43,per_fruit_bearing_tree,21488.64,M.Ton,4333.646,0,0
+139,Flowers (temporary),Rose,,2023-24,705.82,7.75,per_fruit_bearing_tree,23028.54,M.Ton,4209.89,0,0
+140,Flowers (temporary),Arabian jasmine (Belly),,2022-23,25.34,1.15,per_fruit_bearing_tree,8.14,M.Ton,279.332,0,0
+140,Flowers (temporary),Arabian jasmine (Belly),,2023-24,25.35,1.2,per_fruit_bearing_tree,8.69,M.Ton,285.667,0,0
+141,Other food,Sweet potato,,2022-23,68708.01,4331.15,per_acre,297584.61,M.Ton,1.0,0,0
+141,Other food,Sweet potato,,2023-24,69071.03,4373.37,per_acre,302073.46,M.Ton,1.0,0,0
+142,Other food,Fodder,winter,2022-23,40044.41,7126.19,per_acre,285364.08,M.Ton,1.0,0,0
+142,Other food,Fodder,winter,2023-24,42520.5,6872.46,per_acre,292220.55,M.Ton,1.0,0,0
+143,Other food,Fodder,summer,2022-23,10006.09,13872.98,per_acre,138814.32,M.Ton,1.0,0,0
+143,Other food,Fodder,summer,2023-24,11662.88,16624.7,per_acre,193891.91,M.Ton,1.0,0,0
+144,Other food,Mulberry,,2022-23,613.02,19.22,per_fruit_bearing_tree,22905.47,M.Ton,1944.067,0,0
+144,Other food,Mulberry,,2023-24,619.73,16.37,per_fruit_bearing_tree,19777.9,M.Ton,1949.526,0,0
