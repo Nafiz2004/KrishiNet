@@ -48,6 +48,3 @@ x_test = x_test.toarray()
 # scaler = StandardScaler()
 # x_train[:, 157:] = scaler.fit_transform(x_train[:, 157:])
 # x_test[:, 157:] = scaler.transform(x_test[:, 157:])
-
-print(x_train)
-print(x_test)
